@@ -9,4 +9,4 @@ The following is a list of the questions we want our dashboard to answer:
 4. Do students watch more content with time, and does it vary seasonally?
 5. Which countries have the most students registered, and does this number scale proportionally with the number of minutes watched per country?
 
-Link to Tableau Public Dashboard: https://public.tableau.com/app/profile/shannon.sanders8729/viz/CustomerSegmentAnlaysis/Page1
+Link to Tableau Public Dashboard: https://public.tableau.com/app/profile/shannon.sanders8729/viz/CustomerEngagementAnalysis_17088640744840/Page1
